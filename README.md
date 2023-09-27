@@ -2,7 +2,7 @@
 
 Welcome to the Movie Reviewing App! 🎉 This web application allows users to review their favorite movies, providing a platform to share opinions, discover new films, and connect with fellow movie enthusiasts. 🤩
 
-![Movie Night](include/Screen/ss_1.png)
+![Movie Night](includes/Screens/ss_1.png)
 
 ## 🚀 Features
 
